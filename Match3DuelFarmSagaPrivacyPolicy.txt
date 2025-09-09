@@ -1,0 +1,33 @@
+Privacy Policy
+
+This application (“App”) is developed by Stechkom Software.
+We value your privacy and are committed to protecting your personal data.
+
+Information Collection and Use
+
+This App does not collect personally identifiable information directly.
+
+The App uses Google AdMob to display advertisements. AdMob may collect and process data such as advertising identifiers, device information, and usage data in order to provide personalized or non-personalized ads.
+
+Data is processed in accordance with Google’s Privacy Policy: https://policies.google.com/privacy
+.
+
+User Consent (EEA, UK, Switzerland)
+
+In compliance with GDPR requirements, users in the EEA, UK, and Switzerland are asked for consent to personalized or non-personalized ads via a Consent Management Platform (CMP).
+
+Users can change their preferences anytime through the in-app consent message.
+
+Children’s Privacy
+
+This App is not directed to children under the age defined by local laws (e.g., 13 in the US, 16 in the EU).
+
+Changes to Privacy Policy
+
+We may update this Privacy Policy from time to time. Updates will be reflected here.
+
+Contact
+
+If you have any questions about this Privacy Policy, please contact:
+Developer: Stechkom Software
+Email:stechkomsoftware@gmail.com
